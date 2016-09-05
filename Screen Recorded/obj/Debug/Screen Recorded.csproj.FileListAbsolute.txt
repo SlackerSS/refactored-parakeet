@@ -1,0 +1,86 @@
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\Screen Recorded.exe.config
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\Screen Recorded.exe
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\Screen Recorded.pdb
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\Microsoft.Expression.Controls.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\Microsoft.Expression.Drawing.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\Microsoft.Expression.Effects.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\Microsoft.Expression.Interactions.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\Microsoft.Expression.Prototyping.Interactivity.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\Microsoft.Expression.Prototyping.SketchControls.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\System.Windows.Interactivity.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\de\Microsoft.Expression.Controls.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\es\Microsoft.Expression.Controls.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\fr\Microsoft.Expression.Controls.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\it\Microsoft.Expression.Controls.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\ja\Microsoft.Expression.Controls.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\ko\Microsoft.Expression.Controls.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\ru\Microsoft.Expression.Controls.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\zh-Hans\Microsoft.Expression.Controls.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\zh-Hant\Microsoft.Expression.Controls.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\de\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\en\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\es\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\fr\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\it\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\ja\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\ko\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\ru\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\zh-Hans\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\zh-Hant\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\de\System.Windows.Interactivity.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\en\System.Windows.Interactivity.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\es\System.Windows.Interactivity.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\it\System.Windows.Interactivity.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\obj\Debug\Screen Recorded.csprojResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\obj\Debug\MainWindow.g.cs
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\obj\Debug\App.g.cs
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\obj\Debug\Screen Recorded_MarkupCompile.cache
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\obj\Debug\Screen Recorded_MarkupCompile.lref
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\obj\Debug\MainWindow.baml
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\obj\Debug\Screen Recorded.g.resources
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\obj\Debug\Screen_Recorded.Properties.Resources.resources
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\obj\Debug\Screen Recorded.csproj.GenerateResource.Cache
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\obj\Debug\Screen Recorded.exe
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\obj\Debug\Screen Recorded.pdb
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\Microsoft.Expression.Encoder.Api2.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\Microsoft.Expression.Encoder.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\Microsoft.Expression.Encoder.Types.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\Microsoft.Expression.Encoder.Utilities.dll
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\Microsoft.Expression.Encoder.xml
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\Microsoft.Expression.Encoder.Api2.xml
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\Microsoft.Expression.Encoder.Types.xml
+c:\users\chris\documents\visual studio 2015\Projects\Screen Recorded\Screen Recorded\bin\Debug\Microsoft.Expression.Encoder.Utilities.xml
